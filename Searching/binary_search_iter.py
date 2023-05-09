@@ -1,4 +1,4 @@
-#BINARY SEARCH (ITERATIVE METHOD)
+#BINARY SEARCH (ITERATIVE METHOD) Time Complexity is O(logn)
 def binarySearch(num2, x):
   low = 0 #define variable for starting point
   high = len(num2) - 1 #define variable for ending point
